@@ -1,6 +1,7 @@
 [DEMO PAGE](https://vasyl-pavlenko.github.io/table-of-cars/)
 
-## The task is to develop the page that will contain table with cars list. Table should contain listed columns. Table should use pagination locally. Search on top of the table should work accross all entries, not only listed page.
+## The task is to develop the page that will contain table with cars list. 
+Table should contain listed columns. Table should use pagination locally. Search on top of the table should work accross all entries, not only listed page.
   - Company
   - Model
   - VIN
@@ -31,4 +32,5 @@
 
 ## All user actions should affect the table. Data should be saved between page reloads
 
-## API to get initial data - https://documenter.getpostman.com/view/5596891/SW7eyRFV?version=latest#d10a962e-a3de-4c0e-9fda-7d472c20ba24
+## API to get initial data 
+- https://documenter.getpostman.com/view/5596891/SW7eyRFV?version=latest#d10a962e-a3de-4c0e-9fda-7d472c20ba24
