@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/table-of-cars/static/css/main.644e32e1.css",
+    "main.js": "/table-of-cars/static/js/main.ed3c378c.js",
+    "static/js/787.6a81b145.chunk.js": "/table-of-cars/static/js/787.6a81b145.chunk.js",
+    "index.html": "/table-of-cars/index.html",
+    "main.644e32e1.css.map": "/table-of-cars/static/css/main.644e32e1.css.map",
+    "main.ed3c378c.js.map": "/table-of-cars/static/js/main.ed3c378c.js.map",
+    "787.6a81b145.chunk.js.map": "/table-of-cars/static/js/787.6a81b145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644e32e1.css",
+    "static/js/main.ed3c378c.js"
+  ]
+}
